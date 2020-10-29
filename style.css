@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: purple;
+}
+
+p {
+  width: 80%;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: upper-roman;
+  color: #eb34db;
+}
+
+.fourth {
+  color: black;
+  text-decoration: underline;
+}
